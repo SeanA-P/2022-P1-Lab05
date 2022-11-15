@@ -8,8 +8,7 @@ import java.applet.*;
 
 public class Lab05vst extends Applet
 {
-    public void paint(Graph
-                              ics g)
+    public void paint(Graphics g)
     {
         int width = 980;
         int height = 630;
